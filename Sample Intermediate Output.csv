@@ -1,0 +1,44 @@
+Polarity,Subject,Attributes,Weight
+1, BED ,"comfortable exceptional wonderful fabulous great soft " ,7
+1, HOUSEKEEP ,"great " ,1
+1, COOKI ,"available " ,1
+1, RESID ,"delicious " ,1
+1, PEOPL ,"pleasant " ,1
+1, HIT ,"entertaining nice " ,2
+1, SLICE ,"refreshing " ,1
+1, RATE ,"reasonable " ,1
+1, LOCAT ,"convenient right good " ,3
+1, HOTEL ,"beautiful perfect clean fresh nice " ,7
+1, BUFFET ,"free " ,1
+1, PLACE ,"superb bright " ,2
+1, PLANNER ,"attentive " ,1
+1, BATHROOM ,"warm spotless " ,2
+1, PARK ,"ample " ,1
+1, PRODUCT ,"great " ,1
+1, AC ,"hot " ,1
+1, LOBBI ,"beautiful " ,1
+1, CENTER ,"available " ,1
+1, POOL ,"available decent " ,2
+1, CINDI ,"best " ,1
+1, STAFF ,"warm excellent friendly wonderful helpful good nice " ,17
+1, CHECK ,"easy " ,1
+1, GIRL ,"friendly " ,1
+1, LOUNG ,"excellent " ,1
+1, ROOM ,"beautiful gorgeous excellent comfortable spacious spotless clean " ,10
+1, FOOD ,"excellent " ,2
+1, CLERK ,"gracious " ,1
+1, SERVIC ,"superb reasonable delicious " ,3
+1, A/C ,"excellent " ,1
+1, PERSONNEL ,"friendly " ,1
+1, GUEST ,"important " ,1
+1, BREAKFAST ,"delicious good " ,5
+1, INTERNET ,"fast free " ,2
+-1, bed ,"hard ",1
+-1, baltimor ,"expensive ",1
+-1, paper ,"difficult ",1
+-1, nois ,"loud ",1
+-1, traffic ,"crazy ",1
+-1, ac ,"cold ",1
+-1, water ,"cold ",1
+-1, condition ,"noisy ",1
+-1, qualiti ,"poor ",1
